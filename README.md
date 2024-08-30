@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **React js & Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Farheenzehra99](https://github.com/Farheenzehra99)
+- 👨‍💻 All of my projects are available at **https://github.com/Farheenzehra99**
 
-- 💬 Ask me about **HTML, CSS, Typescript, Javascript....**
+- 🔥See my contirbutions here [🔗](https://github.com/Farheenzehra99)
 
-- 📫 How to reach me **https://www.linkedin.com/in/syeda-farheen-zehra-648459268/ ...**
+- 💬 Ask me about ***anything, I'm happy to help***
+
+- 📫 How to reach me **farheenzehra481@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
