@@ -1,9 +1,9 @@
 ![logo](https://as1.ftcdn.net/v2/jpg/05/36/64/54/1000_F_536645401_33OJ7TOYMcNddpI23TML3buQYhR0DPfV.jpg)
 
 <h1 align="center"><i>Hi 👋, I'm Farheen Zehra</i></h1>
-<h2 align="center"><i>Future Certified Cloud Applied Generative AI Engineer ...</i></h2>
+<h2 align="center"><i>A passionate Software Developer Engineer & Programmer...</i></h2>
 
-<img align="right" width="40%" height="40%" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYA8GCm8d8rfdrd4c6uq8JOADExaWYbHyJQ&s">
+<img align="right" alt="Coding" width="380" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheenzehra99&label=Profile%20views&color=0e75b6&style=flat" alt="farheenzehra99" /> </p>
 
